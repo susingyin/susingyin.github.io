@@ -1,7 +1,7 @@
 body {
 	font-family: Tahoma;
-	background-color: #832C65;
-	color: #3D0228;
+	background-color: #F4F2F2;
+	color: #56524D;
 }
 
 header {
@@ -22,8 +22,8 @@ nav {
 
 nav a {
 	text-decoration: none;
-	background-color: #97D889;
-	color: #226813;
+	background-color: #C3AEA2;
+	color: #56524D;
 	padding-left: 135px;
 	padding-right: 135px;
 	padding-top: 5px;
@@ -31,7 +31,7 @@ nav a {
 }
 
 nav a:hover {
-	background-color: #226813;
+	background-color: #59A6A5;
 	color: #97D889;
 }
 
